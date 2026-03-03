@@ -26,6 +26,6 @@ Beginner-friendly guides to **use** the bot and **understand** how it trades.
 
 ## Quick Reference
 
-- **Repo:** [github.com/baker42757/Polymarket-market-maker-bot](https://github.com/baker42757/Polymarket-market-maker-bot)
-- **Telegram:** [@baker1119](https://t.me/baker1119)
+- **Repo:** [github.com/gabagool23/Polymarket-market-maker-bot](https://github.com/gabagool23/Polymarket-market-maker-bot)
+- **Telegram:** [@gabagool21](https://t.me/gabagool21)
 - **Binary name:** `pmarb` (Polymarket Arbitrage)
