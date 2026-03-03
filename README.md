@@ -2,8 +2,8 @@
 
 Automated hedging and arbitrage bot for **Polymarket** 15-minute crypto binary markets (BTC, ETH, SOL Up/Down). Built in Rust for speed and reliability.
 
-**Author:** [@baker1119](https://t.me/baker1119)  
-**Repository:** [github.com/baker42757/Polymarket-market-maker-bot](https://github.com/baker42757/Polymarket-market-maker-bot)
+**Author:** [@gabagool21](https://t.me/gabagool21)  
+**Repository:** [github.com/gabagool23/Polymarket-market-maker-bot](https://github.com/gabagool23/Polymarket-market-maker-bot)
 
 ---
 
